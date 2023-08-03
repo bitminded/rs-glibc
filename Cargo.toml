@@ -1,0 +1,8 @@
+[package]
+name = "glibc"
+version = "0.1.0"
+authors = ["Michael Graf"]
+
+[lib]
+name = "glibc"
+src = "src/lib.rs"
